@@ -8,6 +8,10 @@ USER GUIDE👣
 
 INSTALLATION:
 
+pip install pyaes
+
+pip install telethon
+
 $ https://github.com/Hoodmaster2/Telegram-auto-leave-groups
 $ cd Telegram-auto-leave-groups
 $ nano Phone.txt
